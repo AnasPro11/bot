@@ -2,6 +2,3 @@ Flask
 gunicorn
 requests
 telebot
-os
-sys
-time
